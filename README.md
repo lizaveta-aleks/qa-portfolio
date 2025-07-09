@@ -19,7 +19,7 @@
 
 1.  [Чек-лист](https://miro.com/welcomeonboard/TUdINXBpTlRDbUxJUWRVbnBIdU53ZnU3b3BRVUhZK1RPQysrdFFFcmQzTnZBdEhBeUZhR21lOVljSUZJWVZTcVIzWXowbUNTTkJvcTA5UlhrdmowUDhRR1p2Z3NOWEQzMWVmOStaS05JOERmdDdkbzdkSmlmL2N5V0NiYVVxMExyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=972387774210) Высокоуровневая проверка основного функционала. Создан в Miro.
 2.  [Тест-кейсы (15 шт.)](https://github.com/lizaveta-aleks/qa-portfolio/blob/main/Dodo_Pizza_Order_Flow_TC.md) Детальные пошаговые проверки.
-3.  [Баг-репорты (8 шт.)](test-documentationbug-reportsDodo_Pizza_Order_Flow_BR.md) Теоретические примеры багов, которые могли бы возникнуть в процессе тестирования.
+3.  [Баг-репорты (10 шт.)](https://github.com/lizaveta-aleks/qa-test-documentation-portfolio/blob/main/Dodo_Pizza_Order_Flow_BR.md) Теоретические примеры багов, которые могли бы возникнуть в процессе тестирования.
 
 ## Инструменты
 
